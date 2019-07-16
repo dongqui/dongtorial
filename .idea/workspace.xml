@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3f16b0ff-e812-413b-8d58-d5dcea7ca387" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_week/01/01.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_week/01/01.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_week/01/01_test.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_week/01/01_test.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="15.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_week/15/15.js">
+      <file leaf-file-name="20.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1_week/20/20.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -30,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="15_test.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_week/15/15_test.js">
+      <file leaf-file-name="20_test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_week/20/20_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14_test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_week/14/14_test.js">
+      <file leaf-file-name="19_test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_week/19/19_test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -95,6 +93,19 @@
         <option value="$PROJECT_DIR$/1_week/14/14.js" />
         <option value="$PROJECT_DIR$/1_week/15/15.js" />
         <option value="$PROJECT_DIR$/1_week/15/15_test.js" />
+        <option value="$PROJECT_DIR$/1_week/16/15.js" />
+        <option value="$PROJECT_DIR$/1_week/16/16_test.js" />
+        <option value="$PROJECT_DIR$/1_week/17/15.js" />
+        <option value="$PROJECT_DIR$/1_week/17/17_test.js" />
+        <option value="$PROJECT_DIR$/1_week/17/17.js" />
+        <option value="$PROJECT_DIR$/1_week/16/16.js" />
+        <option value="$PROJECT_DIR$/1_week/18/15.js" />
+        <option value="$PROJECT_DIR$/1_week/18/18_test.js" />
+        <option value="$PROJECT_DIR$/1_week/18/18.js" />
+        <option value="$PROJECT_DIR$/1_week/19/19.js" />
+        <option value="$PROJECT_DIR$/1_week/19/19_test.js" />
+        <option value="$PROJECT_DIR$/1_week/20/20_test.js" />
+        <option value="$PROJECT_DIR$/1_week/20/20.js" />
       </list>
     </option>
   </component>
@@ -141,13 +152,13 @@
               <item name="dongtorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongtorial" type="462c0819:PsiDirectoryNode" />
               <item name="1_week" type="462c0819:PsiDirectoryNode" />
-              <item name="14" type="462c0819:PsiDirectoryNode" />
+              <item name="19" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dongtorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="dongtorial" type="462c0819:PsiDirectoryNode" />
               <item name="1_week" type="462c0819:PsiDirectoryNode" />
-              <item name="15" type="462c0819:PsiDirectoryNode" />
+              <item name="20" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,17 +174,17 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1_week/02" />
+      <recent name="$PROJECT_DIR$/1_week/02_test" />
+      <recent name="$PROJECT_DIR$/1_week/01" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/1_week" />
       <recent name="$PROJECT_DIR$/1_week/11" />
       <recent name="$PROJECT_DIR$/1_week/10" />
       <recent name="$PROJECT_DIR$/1_week/07" />
       <recent name="$PROJECT_DIR$/1_week/02" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/1_week/02" />
-      <recent name="$PROJECT_DIR$/1_week/02_test" />
-      <recent name="$PROJECT_DIR$/1_week/01" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -188,28 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Mocha.1_week/14/14_test.js">
-    <configuration name="14.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="14.js" working-dir="$PROJECT_DIR$/1_week/14" />
-    <configuration name="1_week/01/01_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/1_week/01/01_test.js</test-file>
-    </configuration>
-    <configuration name="1_week/02/02_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/1_week/02/02_test.js</test-file>
-    </configuration>
+  <component name="RunManager" selected="Mocha.1_week/20/20_test.js">
     <configuration name="1_week/14/14_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -220,18 +210,60 @@
       <test-kind>TEST_FILE</test-kind>
       <test-file>$PROJECT_DIR$/1_week/14/14_test.js</test-file>
     </configuration>
+    <configuration name="1_week/16/16_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/1_week/16/16_test.js</test-file>
+    </configuration>
+    <configuration name="1_week/17/17_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/1_week/17/17_test.js</test-file>
+    </configuration>
+    <configuration name="1_week/18/18_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/1_week/18/18_test.js</test-file>
+    </configuration>
+    <configuration name="1_week/20/20_test.js" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/1_week/20/20_test.js</test-file>
+    </configuration>
     <list>
-      <item itemvalue="Mocha.1_week/01/01_test.js" />
-      <item itemvalue="Mocha.1_week/02/02_test.js" />
-      <item itemvalue="Node.js.14.js" />
       <item itemvalue="Mocha.1_week/14/14_test.js" />
+      <item itemvalue="Mocha.1_week/16/16_test.js" />
+      <item itemvalue="Mocha.1_week/17/17_test.js" />
+      <item itemvalue="Mocha.1_week/18/18_test.js" />
+      <item itemvalue="Mocha.1_week/20/20_test.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Mocha.1_week/20/20_test.js" />
+        <item itemvalue="Mocha.1_week/18/18_test.js" />
+        <item itemvalue="Mocha.1_week/17/17_test.js" />
+        <item itemvalue="Mocha.1_week/16/16_test.js" />
         <item itemvalue="Mocha.1_week/14/14_test.js" />
-        <item itemvalue="Node.js.14.js" />
-        <item itemvalue="Mocha.1_week/01/01_test.js" />
-        <item itemvalue="Mocha.1_week/02/02_test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -248,26 +280,12 @@
       <workItem from="1562584768965" duration="1205000" />
       <workItem from="1562680821949" duration="3541000" />
       <workItem from="1562758880030" duration="1079000" />
-      <workItem from="1563203415995" duration="2004000" />
+      <workItem from="1563203415995" duration="2244000" />
+      <workItem from="1563288490787" duration="3081000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="1_week_01_01_test_js - 2019.07.08 at 20h 36m 30s.xml">
-      <configuration name="1_week/01/01_test.js" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="1_week_01_01_test_js - 2019.07.08 at 20h 36m 59s.xml">
-      <configuration name="1_week/01/01_test.js" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="1_week_01_01_test_js - 2019.07.08 at 20h 37m 14s.xml">
-      <configuration name="1_week/01/01_test.js" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="1_week_02_02_test_js - 2019.07.09 at 23h 08m 00s.xml">
-      <configuration name="1_week/02/02_test.js" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
-    <history-entry file="1_week_02_02_test_js - 2019.07.09 at 23h 08m 09s.xml">
-      <configuration name="1_week/02/02_test.js" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
     <history-entry file="1_week_01_01_test_js - 2019.07.09 at 23h 18m 56s.xml">
       <configuration name="1_week/01/01_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
@@ -283,9 +301,24 @@
     <history-entry file="1_week_14_14_test_js - 2019.07.16 at 00h 42m 20s.xml">
       <configuration name="1_week/14/14_test.js" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="1_week_16_16_test_js - 2019.07.17 at 00h 02m 15s.xml">
+      <configuration name="1_week/16/16_test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="1_week_17_17_test_js - 2019.07.17 at 00h 08m 34s.xml">
+      <configuration name="1_week/17/17_test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="1_week_18_18_test_js - 2019.07.17 at 00h 17m 19s.xml">
+      <configuration name="1_week/18/18_test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="1_week_18_18_test_js - 2019.07.17 at 00h 17m 27s.xml">
+      <configuration name="1_week/18/18_test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="1_week_20_20_test_js - 2019.07.17 at 00h 47m 28s.xml">
+      <configuration name="1_week/20/20_test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7829000" />
+    <option name="totallyTimeSpent" value="11150000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -296,9 +329,9 @@
       <window_info anchor="bottom" id="DB Execution Console" order="12" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32928312" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32928312" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.2891859" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="3" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -322,81 +355,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_week/01/01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/10/10.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/11/11.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/11/11_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/01/01.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/01/01_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/02/02.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/02/02_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/03/03.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_week/03/03_test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -547,9 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,9 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -588,9 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -598,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,9 +554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,9 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -676,27 +616,109 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/15/15_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1_week/14/14_test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1_week/15/15.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_week/15/15_test.js">
+    <entry file="file://$PROJECT_DIR$/1_week/16/16.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/17/17.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/17/17_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/16/16_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/18/18_test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/18/18.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/19/19.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/19/19_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/20/20_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_week/20/20.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
