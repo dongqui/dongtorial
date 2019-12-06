@@ -1,4 +1,4 @@
-const sayHello = require('./16');
+const sayHello = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 

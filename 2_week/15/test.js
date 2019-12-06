@@ -1,4 +1,4 @@
-const multiplyTwo = require('./15');
+const multiplyTwo = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 

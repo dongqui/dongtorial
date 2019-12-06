@@ -1,4 +1,4 @@
-const largestNum = require('./13');
+const largestNum = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 

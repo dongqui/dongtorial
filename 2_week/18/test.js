@@ -1,4 +1,4 @@
-const alphaFrequencies = require('./18');
+const alphaFrequencies = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 

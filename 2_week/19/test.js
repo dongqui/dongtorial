@@ -1,4 +1,4 @@
-const checkEquals = require('./19');
+const checkEquals = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 

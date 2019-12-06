@@ -1,4 +1,4 @@
-const findTheOldest = require('./17');
+const findTheOldest = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 

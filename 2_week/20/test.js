@@ -1,4 +1,4 @@
-const arrayWithFunc = require('./20');
+const arrayWithFunc = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 

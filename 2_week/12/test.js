@@ -1,4 +1,4 @@
-const sumOfArr = require('./12');
+const sumOfArr = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 
