@@ -1,16 +1,15 @@
 /*
 
-단어를 역순으로 만들어 반환해주세요
+들어온 값이 홀수인지 판별하세요
 
 ex)
-input hello   output olleh
-input world   output dlrow
+input 3   output true
+input 2   output false
 
  */
 
-function reverseWord(word) {
+function isOdd(num) {
 
 }
 
-module.exports = reverseWord;
-
+module.exports = isOdd;

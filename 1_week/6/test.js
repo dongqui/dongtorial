@@ -1,13 +1,13 @@
-const isOdd = require('./problem');
+const lengthOfString = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 
 describe('test', function () {
-  it('isOdd(3) should return true', function () {
-    assert.equal(isOdd(3), true)
+  it("lengthOfString('hello') should return 4", function () {
+    assert.equal(lengthOfString('hello'), 4)
   });
 
-  it('isOdd(2) should return false', function () {
-    assert.equal(isOdd(2), false)
+  it("lengthOfString('love you') should return 8", function () {
+    assert.equal(lengthOfString('love you'), 8)
   });
 });

@@ -1,13 +1,13 @@
-const startWithCapital = require('./problem');
+const concatStrings = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 
 describe('test', function () {
-  it('startWithCapital("hello") should return "Hello"', function () {
-    assert.equal(startWithCapital('hello'), 'Hello')
+  it("concatStrings('hello', 'world') should return 'hello world'", function () {
+    assert.equal(concatStrings('hello', 'world'), 'hello world')
   });
 
-  it('startWithCapital("world") should return "World', function () {
-    assert.equal(startWithCapital('world'), 'World')
+  it("concatStrings('love', ' you') should return 'love you'", function () {
+    assert.equal(concatStrings('love', ' you'), 'love you')
   });
 });

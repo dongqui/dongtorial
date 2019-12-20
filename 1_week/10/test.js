@@ -1,13 +1,13 @@
-const isSpace = require('./problem');
+const reverseWord = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 
 describe('test', function () {
-  it('isSpace("helloworld") should return false', function () {
-    assert.equal(isSpace('helloworld'), false)
+  it('reverseWord("hello") should return "olleh"', function () {
+    assert.equal(reverseWord('hello'), 'Hello')
   });
 
-  it('isSpace("hello world") should return true', function () {
-    assert.equal(isSpace('hello world'), true)
+  it('reverseWord("world") should return "dlrow', function () {
+    assert.equal(reverseWord('world'), 'dlrow')
   });
 });

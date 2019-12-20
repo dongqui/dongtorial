@@ -1,16 +1,14 @@
 /*
 
-단어의 첫 번째 알파벳을 대문자로 바꿔 반환해주세요
+두 문자 a, b를 합쳐서 반환해주세요
 
 ex)
-input hello   output Hello
-input world   output World
-
+input: 'abc', 'def'   output: 'abcdef'
+input: 'I love ', 'you'   output: 'I love you'
  */
 
-function startWithCapital(word) {
+function concatStrings(a, b) {
 
 }
 
-module.exports = startWithCapital;
-
+module.exports = concatStrings;

@@ -1,15 +1,13 @@
 /*
 
-들어온 값이 홀수인지 판별하세요
+들어온 문자의 길이를 반환하세요
 
-ex)
-input 3   output true
-input 2   output false
-
+ex) input: 'hello'   output: 5
+    input: 'love you'   output: 8
  */
 
-function isOdd(num) {
+function lengthOfString(str) {
 
 }
 
-module.exports = isOdd;
+module.exports = lengthOfString;

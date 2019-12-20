@@ -1,13 +1,11 @@
 /*
+이름이 주어졌을 때, 문자 'Hello, {이름}' 형태로 반환해주세요!
 
-들어온 문자의 길이를 반환하세요
-
-ex) input: 'hello'   output: 5
-    input: 'love you'   output: 8
+input: 'Jade'   output: 'Hello, Jade'
+input: 'Jin'   output: 'Hello, Jin'
  */
 
-function lengthOfString(str) {
-
+function sayHello(a, b) {
 }
 
-module.exports = lengthOfString;
+module.exports = sayHello;

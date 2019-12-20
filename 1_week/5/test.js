@@ -1,13 +1,13 @@
-const concatStrings = require('./problem');
+const isSameString = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 
 describe('test', function () {
-  it("concatStrings('hello', 'world') should return 'hello world'", function () {
-    assert.equal(concatStrings('hello', 'world'), 'hello world')
+  it('isSameString("ABC", "DCF") should return false', function () {
+    assert.equal(isSameString('ABC', 'DCF'), false)
   });
 
-  it("concatStrings('love', ' you') should return 'love you'", function () {
-    assert.equal(concatStrings('love', ' you'), 'love you')
+  it('isSameString("hello", "hello") should return true', function () {
+    assert.equal(isSameString('hello', 'hello'), true)
   });
 });

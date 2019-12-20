@@ -1,16 +1,16 @@
 /*
 
-문자에 띄어쓰기가 있는지 판별해주세요!
+단어를 역순으로 만들어 반환해주세요
 
 ex)
-input 'helloworld'   output false
-input 'hello world'   output true
+input hello   output olleh
+input world   output dlrow
 
  */
 
-function isSpace(str) {
+function reverseWord(word) {
 
 }
 
-module.exports = isSpace;
+module.exports = reverseWord;
 

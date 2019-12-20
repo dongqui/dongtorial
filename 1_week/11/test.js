@@ -1,21 +1,13 @@
-const palindrome = require('./problem');
+const findA = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 
 describe('test', function () {
-  it('palindrome("hello") should return false', function () {
-    assert.equal(palindrome('hello'), false)
+  it('findA("BBBBABBB") should return 4', function () {
+    assert.equal(findA("BBBBABBB"), 4)
   });
 
-  it('palindrome("world") should return false', function () {
-    assert.equal(palindrome('world'), false)
-  });
-
-  it('palindrome("mom") should return true', function () {
-    assert.equal(palindrome('mom'), true)
-  });
-
-  it('palindrome("131") should return true', function () {
-    assert.equal(palindrome('131'), true)
+  it('findA("BABBBBB") should return 1', function () {
+    assert.equal(findA("BABBBBB"), 1)
   });
 });

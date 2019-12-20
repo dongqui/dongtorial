@@ -1,20 +1,16 @@
 /*
 
-palindrome은 문자를 거꾸로 해도 똑같은 문자를 말합니다!
-주어진 palindrome이 맞는지 판별해주세요!
-
+단어에 섞여있는 A의 인덱스를 반환해주세요.
+A는 한 번만 나옵니다!
 
 ex)
-input "mom"   output true
-input "11311"   output  true
-input "world"   output false
-input "hello"   output false
-
+input "BBBABBB"   output: 3
+input "ABBBBBBB"  output: 1
  */
 
-function palindrome(word) {
+function findA(str) {
 
 }
 
-module.exports = palindrome;
+module.exports = findA;
 

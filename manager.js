@@ -19,5 +19,5 @@ function deleteProblem(weekDirPath, num) {
 
 const dirPath = './1_week';
 
-// addProblem(dirPath, 1);
+addProblem(dirPath, 4);
 // deleteProblem(dirPath, 1);

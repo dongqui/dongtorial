@@ -1,13 +1,13 @@
-const findA = require('./problem');
+const startWithCapital = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 
 describe('test', function () {
-  it('findA("BBBBABBB") should return 4', function () {
-    assert.equal(findA("BBBBABBB"), 4)
+  it('startWithCapital("hello") should return "Hello"', function () {
+    assert.equal(startWithCapital('hello'), 'Hello')
   });
 
-  it('findA("BABBBBB") should return 1', function () {
-    assert.equal(findA("BABBBBB"), 1)
+  it('startWithCapital("world") should return "World', function () {
+    assert.equal(startWithCapital('world'), 'World')
   });
 });

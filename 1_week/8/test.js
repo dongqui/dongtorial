@@ -1,13 +1,13 @@
-const reverseWord = require('./problem');
+const isOdd = require('./problem');
 const { describe } = require('mocha');
 const assert = require('chai').assert;
 
 describe('test', function () {
-  it('reverseWord("hello") should return "olleh"', function () {
-    assert.equal(reverseWord('hello'), 'Hello')
+  it('isOdd(3) should return true', function () {
+    assert.equal(isOdd(3), true)
   });
 
-  it('reverseWord("world") should return "dlrow', function () {
-    assert.equal(reverseWord('world'), 'dlrow')
+  it('isOdd(2) should return false', function () {
+    assert.equal(isOdd(2), false)
   });
 });
