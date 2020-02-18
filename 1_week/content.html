@@ -1,0 +1,65 @@
+# 변수: 무언가를 담는 주머니
+ - 선언: var 변수명;
+ - 대입: 변수명 = 값;
+ - 선언 & 대입 = var 변수명 = 값;
+
+# 타입
+ - 숫자(Number): 1, 2, 3, 4, 5
+ - 문자열(String): 'a', "b", `c`
+ - 참/거짓(Boolean): true, false
+ - 객체
+ - undefined
+ - typeof 로 타입 확인 가능
+
+<script>
+  var name = 'IU';
+  var name2 = "IU2";
+  var name3 = `IU3`;
+
+  var age = 11;
+  age = 12;
+
+  var bool = false;
+
+
+</script>
+
+# 연산자
++, -, /, *, %
++=, -=, /=, *=, %=
+++, --
+
+<script>
+  var a = 1;
+  console.log(a);
+  a = a + 2;
+  console.log(a);
+  a += 2 // =>  a = a + 2
+  console.log(a);
+
+  var b = 0;
+  console.log(3 * b++);
+</script>
+
+# 함수
+ - 만드는 법
+  function 함수이름(매개변수) {
+
+    ...code
+
+    return 결과;
+  }
+  결과와 매개변수는 있을 수도 있고 없을 수도 있다.
+
+ - 사용법
+  함수명();
+
+<script>
+  10 * 20 + 20 / 10 
+  40 * 30 + 40 / 30
+
+  function cal(a, b) {
+    console.log(a * b + a / b);
+  }
+
+</script>
